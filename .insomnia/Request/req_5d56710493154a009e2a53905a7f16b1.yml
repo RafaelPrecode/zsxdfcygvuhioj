@@ -1,0 +1,29 @@
+_id: req_5d56710493154a009e2a53905a7f16b1
+type: Request
+parentId: fld_25a1b21f8c664b4996e1f6896d473220
+modified: 1688397782314
+created: 1688397530240
+url: "{{url}}/login"
+name: login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username": "rudsonsanches@gmail.com",
+    	"password": "230891"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1688397545517.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
